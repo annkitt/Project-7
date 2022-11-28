@@ -7,7 +7,7 @@
 ![Html ,Css](https://img.shields.io/badge/html-%20Css-yellowgreen)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh-Choudhary-lightgrey)
 
-## Project 7 [Live link]()
+## Project 7 [Live link](https://producthomep.netlify.app/)
 
 - Skills Gained in this project 
     - Learned how we can use position **Relative & Absolute** in combination so that items can be stacked on top of each other. 
